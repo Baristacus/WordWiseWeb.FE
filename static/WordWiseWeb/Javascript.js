@@ -1,0 +1,1 @@
+console.log('%cWORD %cWISE %cWEB', 'color:#336690;font-size:24px;font-family:Montserrat;font-weight: bold;', 'color:#336690;font-size:24px;font-family:Montserrat;font-weight: bold;', 'color:#336690;font-size:24px;font-family:Montserrat;font-weight: bold;');
